@@ -1,0 +1,5 @@
+{
+  "name": "uso-max",
+  "owner": { "name": "Kevin Gómez" },
+  "plugins": [{ "name": "uso-max", "source": "./" }]
+}
