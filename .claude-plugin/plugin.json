@@ -1,0 +1,9 @@
+{
+  "name": "uso-max",
+  "version": "0.1.0",
+  "description": "Panel y barra de estado con el uso del plan Max: límites 5h/semana y en qué se gastó (tipo de trabajo, proyecto, modelo, día).",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Kevin Gómez"
+  }
+}
